@@ -4,7 +4,7 @@
 
 # 231.ComprehensiveHigherEducationManagementSystem
 
-<p>V：bisebao888888(sql文件)</p>
+<p>V：bishebao888888(sql文件)</p>
 <p>抠: 206157502(sql文件)</p>
 
 <p><h1 align="center">231.高校教育综合管理系统</h1></p>
